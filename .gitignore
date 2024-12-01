@@ -27,3 +27,4 @@ frontend/build/
 # Ignore package-lock.json or yarn.lock (if you use yarn, you may want to ignore yarn.lock)
 frontend/package-lock.json
 frontend/yarn.lock
+# ----
